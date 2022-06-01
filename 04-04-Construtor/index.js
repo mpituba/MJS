@@ -5,6 +5,8 @@ class Human {
   sex
 
   constructor (props) {
+    if (!props.name)
+      throw Error('Nome é obrigatório')
     this.name = props.name
     this.age = props.age
     this.sex = props.sex
