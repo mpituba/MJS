@@ -9,7 +9,7 @@ function greet () {
     }) 
   */
 
-    //Itera o Array numa arrow function
+  //Itera o Array numa arrow function
   args.forEach(argument => {
     console.log(`Hello, ${argument}!`)
   })
