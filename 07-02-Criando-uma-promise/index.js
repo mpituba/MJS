@@ -6,6 +6,7 @@ const minhaPromise = new Promise ((resolve, reject) => {
       resolve('👍')
     }, 1000)
 
+    //Bloco usado apenas para recuperar status da promise
     //Verificação do status após resolução
     setTimeout(() => {
       console.log(minhaPromise)
