@@ -1,0 +1,15 @@
+{
+  "name": "09-03-Type-aliasing",
+  "version": "1.0.0",
+  "description": "Tipando variaveis",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+    
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.7.3"
+  }
+}

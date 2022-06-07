@@ -1,0 +1,15 @@
+{
+  "name": "09-05-Tipando-objetos-e-propriedades-opcionais",
+  "version": "1.0.0",
+  "description": "Tipando objetos e propriedades opcionais",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+    
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.7.3"
+  }
+}
